@@ -1,0 +1,60 @@
+.btn-dark {
+  background-color: black;
+}
+.bg-1 img {
+  background-image: url(hot-gadgets/bg-1.png);
+  background-repeat: no-repeat;
+  background-size: 100px;
+  border: 2px solid black;
+  size: 10%;
+}
+.container {
+  margin-bottom: 2%;
+}
+#phones img {
+  width: 40%;
+  margin-left: 30%;
+}
+#phones,
+#laptop {
+  text-align: center;
+}
+#laptop img {
+  width: 40%;
+  margin-left: 30%;
+}
+.col {
+  box-shadow: 5px 4px 10px lightslategray;
+  border-radius: 15px;
+}
+.card {
+  border: none;
+}
+.orrange {
+  color: orange;
+  margin-left: 90%;
+}
+.heading {
+  text-align: left;
+}
+.catagories {
+  text-align: center;
+}
+.png {
+  width: 20%;
+}
+.dflex img {
+  width: 30%;
+}
+.catagories h3 {
+  border-bottom: 3px solid rgb(238, 186, 14);
+  border-radius: 10px;
+  margin-left: 45%;
+  margin-right: 45%;
+}
+.Chit img {
+  width: 50px;
+}
+.p {
+  text-align: center;
+}
